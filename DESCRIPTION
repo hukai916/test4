@@ -19,7 +19,8 @@ RoxygenNote: 7.1.0
 Suggests:
     knitr,
     rmarkdown,
-    pkgdown
+    pkgdown,
+    bookdown
 URL: https://hukai916.github.io/BuildABiocWorkshop2020/
 BugReports: https://github.com/seandavi/BuildABiocWorkshop2020/issues/new/choose
 VignetteBuilder: knitr
