@@ -23,7 +23,7 @@ Suggests:
     bookdown,
     Rcpp,
     pander
-URL: https://github.com/hukai916/test4fff
+URL: https://hukai916.github.io/test4
 BugReports: https://test4_bug
 VignetteBuilder: knitr
 DockerImage: hukai916/integratedchipseqanalysis_workshop2020:latest
