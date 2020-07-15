@@ -1,9 +1,9 @@
 ---
 title: "trackViewer_workshop2020"
-bibliography: "`r system.file('vignettes', 'bibliography.bib', package = 'workshop2020')`"
-csl: "`r system.file('vignettes', 'nature.csl', package = 'workshop2020')`"
+bibliography: "`r system.file('vignettes', 'bibliography.bib', package = 'test4')`"
+csl: "`r system.file('vignettes', 'nature.csl', package = 'test4')`"
 vignette: >
-  %\VignetteIndexEntry{trackViewer_workshop2020}
+  %\VignetteIndexEntry{test4}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 output: 
