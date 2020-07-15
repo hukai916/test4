@@ -1,4 +1,4 @@
-url: https://hukai916.github.io/test3
+url: https://hukai916.github.io/test4
 
 template:
   params:
@@ -13,4 +13,4 @@ home:
 navbar:
   right:
    - icon: fa-github
-     href: https://github.com/seandavi/BuildABiocWorkshop2020
+     href: https://github.com/seandavi/BuildABiocWorkshop2020fff
