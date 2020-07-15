@@ -20,7 +20,8 @@ Suggests:
     knitr,
     rmarkdown,
     pkgdown,
-    bookdown
+    bookdown,
+    Rcpp
 URL: https://github.com/hukai916/test4
 BugReports: https://github.com/seandavi/BuildABiocWorkshop2020/issues/new/choose
 VignetteBuilder: knitr
