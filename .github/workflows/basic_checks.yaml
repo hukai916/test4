@@ -50,7 +50,7 @@ jobs:
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          repository: hukai916/integratedchipseqanalysis_workshop2020
+          repository: hukai916/test4
           tag_with_ref: true
           tag_with_sha: true
           tags: latest
