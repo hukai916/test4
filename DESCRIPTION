@@ -1,4 +1,4 @@
-Package: BuildABiocWorkshop2020
+Package: test4
 Title: Bioconductor Workshop Template and Github Actions
 Version: 0.1.1
 Authors@R:
@@ -21,8 +21,9 @@ Suggests:
     rmarkdown,
     pkgdown,
     bookdown,
-    Rcpp
-URL: https://github.com/hukai916/test4
-BugReports: https://github.com/seandavi/BuildABiocWorkshop2020/issues/new/choose
+    Rcpp,
+    pander
+URL: https://github.com/hukai916/test4fff
+BugReports: https://test4_bug
 VignetteBuilder: knitr
 DockerImage: hukai916/integratedchipseqanalysis_workshop2020:latest
