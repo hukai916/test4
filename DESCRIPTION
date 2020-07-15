@@ -21,7 +21,7 @@ Suggests:
     rmarkdown,
     pkgdown,
     bookdown
-URL: https://hukai916.github.io/BuildABiocWorkshop2020/
+URL: https://github.com/hukai916/test4
 BugReports: https://github.com/seandavi/BuildABiocWorkshop2020/issues/new/choose
 VignetteBuilder: knitr
 DockerImage: hukai916/integratedchipseqanalysis_workshop2020:latest
